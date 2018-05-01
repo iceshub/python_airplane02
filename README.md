@@ -1,0 +1,3 @@
+运行须知：在pycharm中的terminal命令行中输入cmd指令运行
+输入python main.py运行本程序
+
